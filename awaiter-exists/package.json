@@ -1,0 +1,11 @@
+{
+    "name": "typescript",
+    "devDependencies": {
+        "@types/node": "latest"
+    },
+    "dependencies": {
+        "@azure/storage-blob": "^10.3.0",
+        "@pulumi/pulumi": "^0.16.19",
+        "axios": "^0.18.0"
+    }
+}
